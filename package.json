@@ -1,0 +1,27 @@
+{
+  "name": "aws-alternative",
+  "version": "1.0.0",
+  "description": "AWS lib wrapper",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/giovannicuriel/aws-alternative.git"
+  },
+  "keywords": [
+    "aws",
+    "alternative",
+    "localstack"
+  ],
+  "author": "Giovanni Curiel dos Santos <giovannicuriel@gmail.com>",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/giovannicuriel/aws-alternative/issues"
+  },
+  "homepage": "https://github.com/giovannicuriel/aws-alternative#readme",
+  "dependencies": {
+    "aws-sdk": "2.566.0"
+  }
+}
