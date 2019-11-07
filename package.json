@@ -23,5 +23,6 @@
   "homepage": "https://github.com/giovannicuriel/aws-alternative#readme",
   "dependencies": {
     "aws-sdk": "2.566.0"
-  }
+  },
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" } 
 }
