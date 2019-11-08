@@ -4,7 +4,7 @@
   "description": "AWS lib wrapper",
   "main": "src/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo 'No test for now'"
   },
   "repository": {
     "type": "git",
