@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/giovannicuriel/aws-alternative#readme",
   "dependencies": {
-    "aws-sdk": "2.1204.0"
+    "aws-sdk": "2.1218.0"
   },
   "publishConfig": {
     "access": "public"
